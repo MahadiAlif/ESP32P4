@@ -1,0 +1,6 @@
+build/
+sdkconfig
+sdkconfig.old
+sculpt.sh
+daily_log_bot.sh
+.vscode/
